@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "32c3")(type "KiCad")(uri "${KIPRJMOD}/32c3/32c3.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/lsm6dsr/footprints.pretty")(options "")(descr ""))
+  (lib (name "BSC3")(type "KiCad")(uri "${KIPRJMOD}/lib/BSC3.pretty")(options "")(descr ""))
+)
